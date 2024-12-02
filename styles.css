@@ -101,3 +101,268 @@ ul li a:hover {
     margin-left: 0;
   }
 }
+
+element.style {
+}
+#header {
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 32px;
+    background: #023b6d;
+    display: flex
+;
+    align-items: center;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+header {
+    display: block;
+    unicode-bidi: isolate;
+}
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000 url(../img/demo-bg.jpg) 0 0 repeat;
+    position: relative;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+element.style {
+}
+body {
+    margin: 0;
+    overflow: hidden;
+    background: #000 url(../img/demo-bg.jpg) 0 0 repeat;
+    position: relative;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+body, html {
+    height: 100%;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+body {
+    display: block;
+    margin: 8px;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+lement.style {
+    all: initial;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+
+element.style {
+    all: initial;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+constructed stylesheet
+:host, :root {
+    --magical-button-border-width: 1px;
+}
+constructed stylesheet
+:host, :root {
+    --magical-dropdown-max-width: 300px;
+    --magical-right-rail-height: 720px;
+    --magical-right-rail-width: 360px;
+    --magical-right-rail-large-height: 720px;
+    --magical-right-rail-large-width: 460px;
+    --magical-right-rail-outer-padding: 24px;
+    --magical-right-rail-footer-bottom-padding: 16px;
+    --magical-right-rail-box-shadow-blur-radius: 16px;
+    --magical-right-rail-transition-timing: .3s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    --magical-background-color: white;
+    --magical-foreground-color: var(--magical-gray-80);
+    --magical-primary-00: #EEF4FF;
+    --magical-primary-10: #D2E1FF;
+    --magical-primary-20: #ACC1FF;
+    --magical-primary-40: #576BFF;
+    --magical-primary-50: #2B37FF;
+    --magical-primary-60: #0000FF;
+    --magical-primary-70: #0004D3;
+    --magical-primary-80: #00059A;
+    --magical-primary-90: #000457;
+    --magical-secondary-00: var(--magical-green-00);
+    --magical-secondary-10: var(--magical-green-10);
+    --magical-secondary-20: #AFFBA3;
+    --magical-secondary-30: #83F175;
+    --magical-secondary-50: #2AC720;
+    --magical-secondary-60: var(--magical-green-60);
+    --magical-secondary-70: #008201;
+    --magical-secondary-80: #005A04;
+    --magical-gray-80: #222528;
+    --magical-gray-70: #323539;
+    --magical-gray-60: #4B5056;
+    --magical-gray-50: #6F747C;
+    --magical-gray-40: #969DA6;
+    --magical-gray-30: #BBC2CB;
+    --magical-gray-20: #D8DFE7;
+    --magical-gray-10: #E9EEF4;
+    --magical-gray-00: #F4F7FB;
+    --magical-blue-00: #F5F5FF;
+    --magical-green-00: #F1FFEB;
+    --magical-green-10: #D7FFCF;
+    --magical-green-60: #06AA00;
+    --magical-green-70: #008201;
+    --magical-green-80: #005A04;
+    --magical-new-green-10: #F6FBEE;
+    --magical-new-green-20: #E6FFC6;
+    --magical-new-green-30: #CBFF87;
+    --magical-new-green-40: #AFFF4A;
+    --magical-new-green-80: #00990F;
+    --magical-new-green-90: #0A6925;
+    --magical-red-00: #FFE7E7;
+Show all properties (52 more)
+}
+:host, :root {
+    --magical-button-border-width: 1px;
+}
+:host, :root {
+    --magical-dropdown-max-width: 300px;
+    --magical-right-rail-height: 720px;
+    --magical-right-rail-width: 360px;
+    --magical-right-rail-large-height: 720px;
+    --magical-right-rail-large-width: 460px;
+    --magical-right-rail-outer-padding: 24px;
+    --magical-right-rail-footer-bottom-padding: 16px;
+    --magical-right-rail-box-shadow-blur-radius: 16px;
+    --magical-right-rail-transition-timing: .3s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    --magical-background-color: white;
+    --magical-foreground-color: var(--magical-gray-80);
+    --magical-primary-00: #EEF4FF;
+    --magical-primary-10: #D2E1FF;
+    --magical-primary-20: #ACC1FF;
+    --magical-primary-40: #576BFF;
+    --magical-primary-50: #2B37FF;
+    --magical-primary-60: #0000FF;
+    --magical-primary-70: #0004D3;
+    --magical-primary-80: #00059A;
+    --magical-primary-90: #000457;
+    --magical-secondary-00: var(--magical-green-00);
+    --magical-secondary-10: var(--magical-green-10);
+    --magical-secondary-20: #AFFBA3;
+    --magical-secondary-30: #83F175;
+    --magical-secondary-50: #2AC720;
+    --magical-secondary-60: var(--magical-green-60);
+    --magical-secondary-70: #008201;
+    --magical-secondary-80: #005A04;
+    --magical-gray-80: #222528;
+    --magical-gray-70: #323539;
+    --magical-gray-60: #4B5056;
+    --magical-gray-50: #6F747C;
+    --magical-gray-40: #969DA6;
+    --magical-gray-30: #BBC2CB;
+    --magical-gray-20: #D8DFE7;
+    --magical-gray-10: #E9EEF4;
+    --magical-gray-00: #F4F7FB;
+    --magical-blue-00: #F5F5FF;
+    --magical-green-00: #F1FFEB;
+    --magical-green-10: #D7FFCF;
+    --magical-green-60: #06AA00;
+    --magical-green-70: #008201;
+    --magical-green-80: #005A04;
+    --magical-new-green-10: #F6FBEE;
+    --magical-new-green-20: #E6FFC6;
+    --magical-new-green-30: #CBFF87;
+    --magical-new-green-40: #AFFF4A;
+    --magical-new-green-80: #00990F;
+    --magical-new-green-90: #0A6925;
+    --magical-red-00: #FFE7E7;
+Show all properties (52 more)
+}
+:host, :root {
+    --magical-dropdown-max-width: 300px;
+    --magical-right-rail-height: 720px;
+    --magical-right-rail-width: 360px;
+    --magical-right-rail-large-height: 720px;
+    --magical-right-rail-large-width: 460px;
+    --magical-right-rail-outer-padding: 24px;
+    --magical-right-rail-footer-bottom-padding: 16px;
+    --magical-right-rail-box-shadow-blur-radius: 16px;
+    --magical-right-rail-transition-timing: .3s cubic-bezier(0.4, 0, 0.2, 1) 0s;
+    --magical-background-color: white;
+    --magical-foreground-color: var(--magical-gray-80);
+    --magical-primary-00: #EEF4FF;
+    --magical-primary-10: #D2E1FF;
+    --magical-primary-20: #ACC1FF;
+    --magical-primary-40: #576BFF;
+    --magical-primary-50: #2B37FF;
+    --magical-primary-60: #0000FF;
+    --magical-primary-70: #0004D3;
+    --magical-primary-80: #00059A;
+    --magical-primary-90: #000457;
+    --magical-secondary-00: var(--magical-green-00);
+    --magical-secondary-10: var(--magical-green-10);
+    --magical-secondary-20: #AFFBA3;
+    --magical-secondary-30: #83F175;
+    --magical-secondary-50: #2AC720;
+    --magical-secondary-60: var(--magical-green-60);
+    --magical-secondary-70: #008201;
+    --magical-secondary-80: #005A04;
+    --magical-gray-80: #222528;
+    --magical-gray-70: #323539;
+    --magical-gray-60: #4B5056;
+    --magical-gray-50: #6F747C;
+    --magical-gray-40: #969DA6;
+    --magical-gray-30: #BBC2CB;
+    --magical-gray-20: #D8DFE7;
+    --magical-gray-10: #E9EEF4;
+    --magical-gray-00: #F4F7FB;
+    --magical-blue-00: #F5F5FF;
+    --magical-green-00: #F1FFEB;
+    --magical-green-10: #D7FFCF;
+    --magical-green-60: #06AA00;
+    --magical-green-70: #008201;
+    --magical-green-80: #005A04;
+    --magical-new-green-10: #F6FBEE;
+    --magical-new-green-20: #E6FFC6;
+    --magical-new-green-30: #CBFF87;
+    --magical-new-green-40: #AFFF4A;
+    --magical-new-green-80: #00990F;
+    --magical-new-green-90: #0A6925;
+    --magical-red-00: #FFE7E7;
+Show all properties (52 more)
+}
+user agent stylesheet
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+
